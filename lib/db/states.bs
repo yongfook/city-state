@@ -1,0 +1,27 @@
+---
+:AK: Acklins Island District
+:BP: Black Point District
+:BY: Berry Islands District
+:CE: Central Eleuthera District
+:CK: Crooked Island and Long Cay District
+:CO: Central Abaco District
+:EG: East Grand Bahama District
+:EX: Exuma District
+:FP: City of Freeport District
+:HI: Harbour Island
+:HT: Hope Town District
+:IN: Inagua
+:LI: Long Island
+:MC: Mangrove Cay
+:MG: Mayaguana District
+:NE: North Eleuthera
+:NP: New Providence District
+:NS: North Andros District
+:RC: Rum Cay
+:RI: Ragged Island District
+:SA: South Andros
+:SE: South Eleuthera
+:SO: South Abaco District
+:SS: San Salvador District
+:SW: Spanish Wells District
+:WG: West Grand Bahama District

@@ -1,0 +1,2898 @@
+---
+:AC:
+- Acrelandia
+- Assis Brasil
+- Brasileia
+- Feijó
+- Foz do Jordao
+- Fronteira
+- Minas Gerais
+- Placido de Castro
+- Porto Acre
+- Rio Branco
+- Senador Guiomard
+- Xapuri
+:AL:
+- Arapiraca
+- Atalaia
+- Barra de Santo Antonio
+- Barra de Sao Miguel
+- Batalha
+- Boca da Mata
+- Cacimbinhas
+- Campo Alegre
+- Capela
+- Carneiros
+- Cha Preta
+- Coite do Noia
+- Coruripe
+- Craibas
+- Delmiro Gouveia
+- Eugenio
+- Feira Grande
+- Igaci
+- Junqueiro
+- Lagoa da Canoa
+- Maceió
+- Maragogi
+- Marechal Deodoro
+- Marituba
+- Mata Grande
+- Matriz de Camaragibe
+- Messias
+- Murici
+- Ouro Branco
+- Palmeira dos Indios
+- Paulo Jacinto
+- Penedo
+- Pilar
+- Porto de Pedras
+- Rio Largo
+- Santana do Ipanema
+- Sao Jose da Laje
+- Sao Jose da Tapera
+- Sao Miguel dos Campos
+- Sao Paulo
+- Sao Sebastiao
+- Satuba
+- Taquarana
+- Traipu
+- Uniao dos Palmares
+- Vicosa
+:AM:
+- Alianca Com Deus
+- Boa Vista
+- Cachoeira
+- Coari
+- Guajara
+- Humaitá
+- Itacoatiara
+- Labrea
+- Laranjal
+- Manacapuru
+- Manaquiri
+- Manaus
+- Maues
+- Parintins
+- San Jose
+:AP:
+- Macapá
+- Porto Grande
+- Santana
+:BA:
+- Abaira
+- Adustina
+- Agua Boa
+- Alagoinhas
+- Alcobaca
+- Almadina
+- Amargosa
+- Anage
+- Andarai
+- Angelica
+- Anguera
+- Apuarema
+- Aracas
+- Aracatu
+- Araci
+- Arembepe
+- Baianopolis
+- Baixa Grande
+- Barra
+- Barra do Choca
+- Barra do Mendes
+- Barreiras
+- Barro Preto
+- Barrocas
+- Belmonte
+- Belo Campo
+- Boa Vista
+- Bom Jesus da Lapa
+- Boninal
+- Bonito
+- Branco
+- Brejoes
+- Brumado
+- Buerarema
+- Cabaceiras do Paraguacu
+- Cachoeira
+- Cacule
+- Caetite
+- Cafarnaum
+- Camacan
+- Camacari
+- Camaçari
+- Campo Formoso
+- Canavieiras
+- Candeias
+- Canto
+- Capela do Alto Alegre
+- Capim Grosso
+- Caravelas
+- Cardeal da Silva
+- Castro Alves
+- Catu
+- Central
+- Cicero Dantas
+- Cidade
+- Coaraci
+- Conceicao da Feira
+- Conceicao do Coite
+- Condeuba
+- Coracao de Maria
+- Coronel
+- Coronel Joao Sa
+- Cruz das Almas
+- Curaca
+- Dias davila
+- Encruzilhada
+- Entre Rios
+- Esplanada
+- Euclides da Cunha
+- Eunapolis
+- Feira de Santana
+- Freitas
+- Gandu
+- Gaviao
+- Gentio do Ouro
+- Guanambi
+- Iacu
+- Ibicarai
+- Ibicui
+- Ibirapitanga
+- Ibirapua
+- Ibitiara
+- Ibitita
+- Ibotirama
+- Igapora
+- Ilhéus
+- Ipiau
+- Ipira
+- Ipupiara
+- Irece
+- Itabela
+- Itaberaba
+- Itabuna
+- Itagi
+- Itagiba
+- Itajuipe
+- Itamaraju
+- Itanhem
+- Itaparica
+- Itapetinga
+- Itapicuru
+- Itarantim
+- Itiuba
+- Ituberá
+- Jacobina
+- Jaguaquara
+- Jaguarari
+- Jequié
+- Jiquirica
+- Jitauna
+- Juazeiro
+- Lajedinho
+- Lapao
+- Lauro de Freitas
+- Lencois
+- Licinio de Almeida
+- Luis Eduardo Magalhaes
+- Macarani
+- Macaubas
+- Madre de Deus
+- Magalhaes
+- Mairi
+- Malhada
+- Mangabeira
+- Maracas
+- Maragogipe
+- Mata
+- Mata de Sao Joao
+- Mataripe
+- Matina
+- Medeiros Neto
+- Miguel Calmon
+- Milagres
+- Monte Cruzeiro
+- Monte Gordo
+- Monte Santo
+- Morro de Sao Paulo
+- Morro do Chapeu
+- Mucuge
+- Mucuri
+- Mundo Novo
+- Muritiba
+- Muritiba
+- Nazare
+- Nova Canaa
+- Nova Itarana
+- Nova Soure
+- Nova Vicosa
+- Olindina
+- Oliveira dos Brejinhos
+- Palmas de Monte Alto
+- Paramirim
+- Paripiranga
+- Pau Brasil
+- Paulo Afonso
+- Pindobacu
+- Pinhoes
+- Piripa
+- Planalto
+- Pocoes
+- Pojuca
+- Ponta da Areia
+- Porto Seguro
+- Prado
+- Queimadas
+- Real
+- Recife
+- Riachao do Jacuipe
+- Riacho de Santana
+- Ribeira do Pombal
+- Rodelas
+- Ruy Barbosa
+- Salinas da Margarida
+- Salvador
+- Santa Brigida
+- Santa Cruz Cabralia
+- Santa Cruz da Vitoria
+- Santa Maria da Vitoria
+- Santa Teresinha
+- Santana
+- Santo
+- Santo Amaro
+- Santo Antonio de Jesus
+- Santo Estevao
+- Sao Domingos
+- Sao Felipe
+- Sao Felix
+- Sao Francisco do Conde
+- Sao Goncalo dos Campos
+- Sao Luis
+- Sao Sebastiao do Passe
+- Seabra
+- Sebastiao Laranjeiras
+- Senhor do Bonfim
+- Serra Preta
+- Serrinha
+- Serrolandia
+- Simoes Filho
+- Sobradinho
+- Tanquinho
+- Taperoa
+- Tapiramuta
+- Teixeira
+- Teixeira de Freitas
+- Teofilandia
+- Teotonio Vilela
+- Tucano
+- Uaua
+- Ubaira
+- Ubaitaba
+- Ubata
+- Una
+- Urucuca
+- Utinga
+- Valente
+- Valença
+- Varzea Nova
+- Varzedo
+- Vera Cruz
+- Veredinha
+- Vitória da Conquista
+- Wanderley
+:CE:
+- Abaiara
+- Acarape
+- Acarau
+- Acopiara
+- Alegres
+- Apuiares
+- Aquiraz
+- Aracati
+- Arere
+- Aurora
+- Baixio
+- Barbalha
+- Barro
+- Barroquinha
+- Baturite
+- Beberibe
+- Bela Cruz
+- Boa Viagem
+- Brejo Santo
+- Camocim
+- Candido
+- Caninde
+- Capistrano
+- Carire
+- Carius
+- Carnaubal
+- Cascavel
+- Catunda
+- Caucaia
+- Crateus
+- Crato
+- Croata
+- Cruz
+- Deputado Irapuan Pinheiro
+- Eusebio
+- Forquilha
+- Fortaleza
+- Frecheirinha
+- Groairas
+- Guaraciaba do Norte
+- Horizonte
+- Ibiapina
+- Ico
+- Iguatu
+- Ipaumirim
+- Ipu
+- Iracema
+- Iraucuba
+- Itaicaba
+- Itaitinga
+- Itapage
+- Itapipoca
+- Itapiuna
+- Itarema
+- Jaguaretama
+- Jaguaribe
+- Jericoacoara
+- Juazeiro
+- Juazeiro do Norte
+- Jucas
+- Lavras da Mangabeira
+- Limoeiro do Norte
+- Madalena
+- Maioba
+- Maracana
+- Maracanau
+- Maranguape
+- Massape
+- Mauriti
+- Meruoca
+- Milagres
+- Miraima
+- Missao Velha
+- Mombaca
+- Monsenhor Tabosa
+- Morada Nova
+- Morrinhos
+- Mucambo
+- Nova Olinda
+- Nova Russas
+- Ocara
+- Oros
+- Pacajus
+- Pacatuba
+- Paracuru
+- Paraipaba
+- Parambu
+- Paramoti
+- Pentecoste
+- Pereiro
+- Pindoretama
+- Poco da Pedra
+- Potengi
+- Quixada
+- Quixeramobim
+- Quixere
+- Raposa (1)
+- Redencao
+- Russas
+- Santa Quiteria
+- Sao Goncalo do Amarante
+- Sao Joao do Jaguaribe
+- Senador Pompeu
+- Senador Sa
+- Sitios Novos de Cima
+- Sobral
+- Solonopole
+- Tamboril
+- Tarrafas
+- Taua
+- Tiangua
+- Trairi
+- Ubiracu
+- Umirim
+- Uruburetama
+- Uruoca
+- Vicosa do Ceara
+:DF:
+- Brasilandia
+- Brasília
+- Ceilandia
+- Cruzeiro
+- Expansao da Vila Sao Jose
+- Guara
+- Nucleo Bandeirante
+- Paranoa
+- Sobradinho
+- Taguatinga
+:ES:
+- Afonso Claudio
+- Agua Doce
+- Agua Doce do Norte
+- Aguia Branca
+- Alegre
+- Alto Rio Novo
+- Anchieta
+- Apiaca
+- Arace
+- Aracruz
+- Atilio Vivacqua
+- Baixo Guandu
+- Barra de Sao Francisco
+- Boa Esperanca
+- Bom Jesus do Norte
+- Cachoeiro de Itapemirim
+- Cariacica
+- Castelo
+- Caxias do Sul
+- Celina
+- Colatina
+- Conceicao da Barra
+- Domingos Martins
+- Ecoporanga
+- Fundao
+- Guacui
+- Guarapari
+- Ibatiba
+- Ibiracu
+- Iconha
+- Imbui
+- Irupi
+- Itaguacu
+- Itapemirim
+- Itarana
+- Iuna
+- Jaguare
+- Jambeiro
+- Jeronimo Monteiro
+- Joao Neiva
+- Linhares
+- Mantenopolis
+- Marataizes
+- Marechal Floriano
+- Marilandia
+- Mimoso do Sul
+- Montanha
+- Mucurici
+- Muniz Freire
+- Nova Venecia
+- Pancas
+- Parana
+- Patrimonio Divino
+- Piuma
+- Presidente Kennedy
+- Rio Bananal
+- Santa Leopoldina
+- Santa Maria
+- Santa Rita
+- Santa Teresa
+- Sao Domingos
+- Sao Gabriel
+- Sao Gabriel da Palha
+- Sao Paulo
+- Sao Roque
+- Serra
+- Sooretama
+- São Mateus
+- Valerio
+- Vargem Alta
+- Vargem Grande
+- Vargem Grande do Soturno
+- Venda Nova do Imigrante
+- Viana
+- Vila Velha
+- Vitória
+- Zumbi dos Palmares
+:GO:
+- Acreuna
+- Alexania
+- Alto Paraiso de Goias
+- Americano do Brasil
+- Anicuns
+- Anápolis
+- Aparecida de Goiania
+- Aracu
+- Bela Vista de Goias
+- Bom Jesus
+- Britania
+- Buriti Alegre
+- Cachoeira Alta
+- Caiaponia
+- Caldas Novas
+- Caldazinha
+- Campestre de Goias
+- Campinorte
+- Castelandia
+- Catalao
+- Caturai
+- Ceres
+- Cezarina
+- Corumba de Goias
+- Cristalina
+- Crixas
+- Davidopolis
+- Doverlandia
+- Edeia
+- Firminopolis
+- Formosa
+- Geriacu
+- Goianapolis
+- Goianesia
+- Goianira
+- Goias
+- Goiatuba
+- Goiânia
+- Heitorai
+- Hidrolandia
+- Iaciara
+- Inhumas
+- Ipora
+- Itaberai
+- Itaguari
+- Itapaci
+- Itapuranga
+- Itaucu
+- Itumbiara
+- Jandaia
+- Jaragua
+- Jatai
+- Jussara
+- Luziania
+- Mairipotaba
+- Mara Rosa
+- Maurilandia
+- Minacu
+- Mineiros
+- Morrinhos
+- Nazario
+- Neropolis
+- Niquelandia
+- Ouroana
+- Padre Bernardo
+- Palmeiras de Goias
+- Palmelo
+- Parauna
+- Petrolina de Goias
+- Pilar de Goias
+- Piracanjuba
+- Piranhas
+- Pirenopolis
+- Pires do Rio
+- Pontalina
+- Porangatu
+- Posse
+- Quirinopolis
+- Rialma
+- Rianapolis
+- Rio Quente
+- Rio Verde
+- Rubiataba
+- Sanclerlandia
+- Santa Helena de Goias
+- Santa Rosa
+- Santo Antonio
+- Santo Antonio da Barra
+- Santo Antonio do Descoberto
+- Sao Felix
+- Sao Luis de Montes Belos
+- Sao Miguel do Araguaia
+- Sao Simao
+- Senador Canedo
+- Silvania
+- Trindade
+- Turvelandia
+- Uruacu
+- Uruana
+- Vianopolis
+:MA:
+- Acailandia
+- Alto Alegre
+- Anajatuba
+- Araioses
+- Axixa
+- Bacabal
+- Balsas
+- Barra do Corda
+- Belem
+- Buriticupu
+- Cantanhede
+- Carolina
+- Caxias
+- Codó
+- Coelho Neto
+- Dom Pedro
+- Estreito
+- Goncalves Dias
+- Grajau
+- Igarape do Meio
+- Imperatriz
+- Lucena
+- Magalhaes de Almeida
+- Matoes dos Caboclos
+- Miranda
+- Moncao
+- Novo Recreio
+- Olho d'Agua das Cunhas
+- Paco do Lumiar
+- Parnarama
+- Pastos Bons
+- Pedreiras
+- Pinheiro
+- Pirapemas
+- Placas
+- Pocao de Pedras
+- Presidente Dutra
+- Riachao
+- Rosario
+- Santa Helena
+- Santa Ines
+- Sao Bento
+- Sao Bernardo
+- Sao Francisco
+- Sao Joao dos Patos
+- Sao Jose de Ribamar
+- Sao Mateus do Maranhao
+- Sao Pedro da agua Branca
+- São Luís
+- Tasso Fragoso
+- Timbiras
+- Timon
+- Tuntum
+- Vargem Grande
+- Viana
+- Vitorino Freire
+- Ze Doca
+:MG:
+- Abaete
+- Acucena
+- Agua Boa
+- Aguas Formosas
+- Aimores
+- Alem Paraiba
+- Alfenas
+- Almenara
+- Alpinopolis
+- Alterosa
+- Alvinopolis
+- Andradas
+- Antonio Pereira
+- Aracuai
+- Araguari
+- Aramirim
+- Arapora
+- Araxá
+- Arceburgo
+- Arcos
+- Areado
+- Arinos
+- Astolfo Dutra
+- Azurita
+- Baependi
+- Bambui
+- Barao de Cocais
+- Barbacena
+- Barroso
+- Bela Vista de Minas
+- Belo Horizonte
+- Belo Oriente
+- Berilo
+- Betim
+- Boa Esperanca
+- Bocaiuva
+- Bom Despacho
+- Bom Jesus da Penha
+- Bom Sucesso
+- Borda da Mata
+- Bras
+- Bras Pires
+- Brasilia de Minas
+- Brasopolis
+- Braunas
+- Brumadinho
+- Bueno Brandao
+- Buritis
+- Cachoeira Dourada
+- Cachoeira da Prata
+- Cachoeira de Minas
+- Cachoeira do Campo
+- Caetanopolis
+- Caete
+- Caldas
+- Calixto
+- Camanducaia
+- Cambui
+- Campanario
+- Campanha
+- Campestre
+- Campina Verde
+- Campo Belo
+- Campo do Meio
+- Campo do Meio
+- Campos
+- Campos Altos
+- Campos Gerais
+- Candeias
+- Caparao
+- Capelinha
+- Capitolio
+- Carai
+- Caraibas
+- Carandai
+- Carangola
+- Caratinga
+- Carmo da Cachoeira
+- Carmo da Mata
+- Carmo de Minas
+- Carmo do Cajuru
+- Carmo do Paranaiba
+- Carmo do Rio Claro
+- Carneirinho
+- Carvalhopolis
+- Carvalhos
+- Casa Grande
+- Cassia
+- Cassiterita
+- Cataguases
+- Catas Altas
+- Caxambu
+- Chapadao
+- Chonim
+- Claro dos Pocoes
+- Claudio
+- Conceicao
+- Conceicao das Alagoas
+- Conceicao do Mato Dentro
+- Conceicao do Para
+- Conceicao do Rio Verde
+- Conceicao dos Ouros
+- Confins
+- Congonhas
+- Conselheiro Lafaiete
+- Conselheiro Pena
+- Contagem
+- Coracao de Jesus
+- Corinto
+- Coroaci
+- Coromandel
+- Coronel Fabriciano
+- Coronel Murta
+- Corrego do Bom Jesus
+- Corrego do Ouro
+- Cruzilia
+- Curral de Dentro
+- Curvelo
+- Delfim Moreira
+- Diamantina
+- Dionisio
+- Divino
+- Divinópolis
+- Divisa Alegre
+- Dores de Campos
+- Dores do Indaia
+- Durande
+- Eloi Mendes
+- Entre Folhas
+- Entre Rios de Minas
+- Ervalia
+- Esmeraldas
+- Espera Feliz
+- Espinosa
+- Estrela do Indaia
+- Eubanque
+- Eugenopolis
+- Extrema
+- Fatima
+- Felixlandia
+- Ferros
+- Florestal
+- Fonseca
+- Formiga
+- Formoso
+- Fortaleza de Minas
+- Francisco Sa
+- Frei Inocencio
+- Frutal
+- Galileia
+- Goiana
+- Goncalves
+- Governador Valadares
+- Guanhaes
+- Guape
+- Guaraciaba
+- Guaranesia
+- Guarani
+- Guarara
+- Guarda Mor
+- Guaxupe
+- Guidoval
+- Heliodora
+- Hematita
+- Ibia
+- Ibiraci
+- Ibirite
+- Icarai
+- Igarape
+- Igaratinga
+- Inconfidentes
+- Indianopolis
+- Inhapim
+- Inhauma
+- Ipaba
+- Ipanema
+- Ipatinga
+- Ipoema
+- Ipuiuna
+- Itabira
+- Itabirinha de Mantena
+- Itabirito
+- Itacarambi
+- Itaguara
+- Itajuba
+- Itamarandiba
+- Itamarati
+- Itambacuri
+- Itamogi
+- Itanhandu
+- Itapecerica
+- Itapeva
+- Itatiaiucu
+- Itau de Minas
+- Itauna
+- Itueta
+- Ituiutaba
+- Itumirim
+- Iturama
+- Jaboticatubas
+- Jacui
+- Jacutinga
+- Jaguaracu
+- Jaiba
+- Janauba
+- Januaria
+- Jardim Alvorada
+- Jequeri
+- Jequitai
+- Jequitinhonha
+- Joao Monlevade
+- Joao Pinheiro
+- Juatuba
+- Juiz de Fora
+- Ladainha
+- Lagoa Dourada
+- Lagoa Santa
+- Lagoa da Prata
+- Lajinha
+- Lambari
+- Lapinha
+- Lavras
+- Leopoldina
+- Liberdade
+- Lima Duarte
+- Limeira do Oeste
+- Luminarias
+- Luz
+- Macaia
+- Machado
+- Malacacheta
+- Manga
+- Manhuacu
+- Manhumirim
+- Mantena
+- Maria da Fe
+- Mariana
+- Mario Campos
+- Maripa
+- Marmelopolis
+- Mateus Leme
+- Matias Barbosa
+- Matipo
+- Matozinhos
+- Medina
+- Minas Novas
+- Mirabela
+- Mirai
+- Moema
+- Monte Azul
+- Monte Carmelo
+- Monte Santo de Minas
+- Monte Siao
+- Montes Claros
+- Morada Nova de Minas
+- Munhoz
+- Muriaé
+- Mutum
+- Muzambinho
+- Nanuque
+- Naque
+- Nepomuceno
+- Nova Era
+- Nova Esperanca
+- Nova Lima
+- Nova Ponte
+- Nova Resende
+- Nova Serrana
+- Oliveira
+- Ouro Branco
+- Ouro Fino
+- Ouro Preto
+- Pai Pedro
+- Paineiras
+- Papagaios
+- Para de Minas
+- Paracatu
+- Paraguacu
+- Paraisopolis
+- Paraopeba
+- Passa Quatro
+- Passa Tempo
+- Passos
+- Patis
+- Patos de Minas
+- Patrocinio
+- Paulistas
+- Pecanha
+- Pedra Azul
+- Pedra do Anta
+- Pedra do Indaia
+- Pedralva
+- Pedro Leopoldo
+- Pequeri
+- Perdigao
+- Perdoes
+- Petunia
+- Pinheiros
+- Piracema
+- Piranguinho
+- Pirapanema
+- Pirapora
+- Pirauba
+- Pitangui
+- Planura
+- Poco Fundo
+- Pocrane
+- Pompeu
+- Ponte Nova
+- Porteirinha
+- Pote
+- Pouso Alegre
+- Poços de Caldas
+- Prados
+- Prata
+- Pratapolis
+- Prudente de Morais
+- Raposos
+- Raul Soares
+- Recreio
+- Resende Costa
+- Resplendor
+- Ribeirão das Neves
+- Rio Acima
+- Rio Casca
+- Rio Paranaiba
+- Rio Pardo de Minas
+- Rio Pomba
+- Ritapolis
+- Romaria
+- Sabara
+- Sabinopolis
+- Sacramento
+- Salinas
+- Salvador
+- Santa Barbara
+- Santa Cruz de Minas
+- Santa Efigenia de Minas
+- Santa Juliana
+- Santa Luzia
+- Santa Margarida
+- Santa Maria do Salto
+- Santa Rita de Caldas
+- Santa Rita do Sapucai
+- Santa Vitoria
+- Santana de Patos
+- Santana do Paraiso
+- Santo Antonio do Monte
+- Santos Dumont
+- Sao Francisco
+- Sao Francisco de Sales
+- Sao Francisco do Gloria
+- Sao Goncalo do Abaete
+- Sao Goncalo do Para
+- Sao Goncalo do Rio Abaixo
+- Sao Goncalo do Sapucai
+- Sao Gotardo
+- Sao Joao Batista do Gloria
+- Sao Joao Nepomuceno
+- Sao Joao da Serra Negra
+- Sao Joao do Manteninha
+- Sao Joao do Paraiso
+- Sao Jose dos Salgados
+- Sao Miguel do Anta
+- Sao Pedro da Uniao
+- Sao Sebastiao do Paraiso
+- Sao Tomas de Aquino
+- Sao Vicente de Minas
+- Sao Vitor
+- Sapucai Mirim
+- Sarzedo
+- Senador Cortes
+- Senador Firmino
+- Senhora do Porto
+- Serra do Salitre
+- Serra dos Aimores
+- Serrania
+- Serro
+- Sete Lagoas
+- Silvianopolis
+- Sitio Sebastiao Lopes Dias
+- Sobralia
+- Soledade de Minas
+- São João del Rei
+- São Lourenço
+- Teixeiras
+- Teófilo Otoni
+- Timoteo
+- Tiradentes
+- Tocantins
+- Tombos
+- Tres Marias
+- Tres Pontas
+- Três Corações
+- Tugurio
+- Tupaciguara
+- Turmalina
+- Turvolandia
+- Uba
+- Ubai
+- Ubaporanga
+- Uberaba
+- Uberlândia
+- Unai
+- Urucuia
+- Varginha
+- Varzea da Palma
+- Varzelandia
+- Vazante
+- Venda Nova
+- Verissimo
+- Vespasiano
+- Vicosa
+- Virgem da Lapa
+- Virginia
+- Virginopolis
+- Visconde do Rio Branco
+- Volta Grande
+:MS:
+- Agua Clara
+- Amambai
+- Anastacio
+- Antonio Joao
+- Aparecida do Taboado
+- Aquidauana
+- Bataguassu
+- Bataipora
+- Bela Vista
+- Bonito
+- Campo Grande
+- Campo Verde
+- Capitao
+- Cassilandia
+- Corumbá
+- Costa Rica
+- Costa Rica
+- Coxim
+- Deodapolis
+- Dois Irmaos
+- Dourados
+- Eldorado
+- Iguatemi
+- Itapora
+- Itaquirai
+- Ivinhema
+- Ladario
+- Laguna Carapa
+- Lontra
+- Maracaju
+- Navirai
+- Panambi
+- Paranaiba
+- Ponta Porã
+- Ribas do Rio Pardo
+- Rio Brilhante
+- Rio Verde de Mato Grosso
+- Santa
+- Sao Jose
+- Sidrolandia
+- Terenos
+- Três Lagoas
+- Vicentina
+:MT:
+- Alta Floresta
+- Alto Araguaia
+- Alto Garcas
+- Alto Paraguai
+- Arenapolis
+- Barra do Bugres
+- Barra do Garças
+- Caceres
+- Campinapolis
+- Canoa
+- Capinzal
+- Chapada dos Guimaraes
+- Chapadao
+- Colider
+- Coxipo do Ouro
+- Cuiabá
+- Diamantino
+- Dom Alexandre
+- Garimpo Novo
+- General Carneiro
+- Guiratinga
+- Itiquira
+- Jaciara
+- Juruena
+- Juscimeira
+- Juína
+- Lucas do Rio Verde
+- Matupá
+- Mirassol d'Oeste
+- Mutum
+- Nobres
+- Nova Olimpia
+- Nova Xavantina
+- Paulista
+- Pedra Preta
+- Pocone
+- Pontes e Lacerda
+- Porto dos Gauchos
+- Poxoreo
+- Primavera
+- Progresso
+- Rio Claro
+- Rondonópolis
+- Rosario Oeste
+- Santa Helena
+- Sao Joaquim
+- Sapezal
+- Sinop
+- Sorriso
+- Tangara da Serra
+- Tapurah
+- Taquari
+- Vila Bela da Santissima Trindade
+- Várzea Grande
+:PA:
+- Abaetetuba
+- Abel Figueiredo
+- Afua
+- Altamira
+- Ananindeua
+- Baiao
+- Barcarena
+- Belém
+- Benevides
+- Brasil Novo
+- Breves
+- Capanema
+- Carajas
+- Castanhal
+- Centro
+- Conceição do Araguaia
+- Dom Eliseu
+- Eldorado dos Carajas
+- Igarape Miri
+- Itaituba
+- Jacunda
+- Jacunda
+- Juruti
+- Maiauata
+- Marabá
+- Marapanim
+- Medicilandia
+- Moju
+- Monte Alegre
+- Mosqueiro
+- Oriximina
+- Pacaja
+- Paragominas
+- Ponta de Pedras
+- Redencao
+- Rio Maria
+- Rondon do Para
+- Ruropolis
+- Santa Isabel do Para
+- Santa Maria do Para
+- Santarém
+- Sao Miguel do Guama
+- Tailandia
+- Terra Nova
+- Tres Palmeiras
+- Tucuma
+- Tucurui
+- Uruara
+- Vitoria (4)
+:PB:
+- Aguiar
+- Alagoa Grande
+- Alcantil
+- Alhandra
+- Aparecida
+- Areia
+- Areial
+- Aroeiras
+- Bananeiras
+- Bayeux
+- Belem
+- Bonito de Santa Fe
+- Boqueirao
+- Borborema
+- Caapora
+- Cabedelo
+- Cachoeira dos andios
+- Cajazeiras
+- Campina Grande
+- Campo Grande
+- Catole
+- Catole do Rocha
+- Conde
+- Coremas
+- Cuite
+- Cuitegi
+- Emas
+- Esperanca
+- Fagundes
+- Fazenda Nova
+- Frei Martinho
+- Guarabira
+- Gurinhem
+- Ibiara
+- Inga
+- Itaporanga
+- Itatuba
+- Jacarau
+- João Pessoa
+- Juazeirinho
+- Juazeirinho
+- Juripiranga
+- Lagoa
+- Lagoa Seca
+- Lucena
+- Mamanguape
+- Marcacao
+- Mari
+- Massaranduba
+- Mataraca
+- Nova Palmeira
+- Patos
+- Pedras de Fogo
+- Pianco
+- Picui
+- Pilar
+- Pocinhos
+- Poco Dantas
+- Pombal
+- Queimadas
+- Rio Tinto
+- Santa Cruz
+- Santa Helena
+- Santa Luzia
+- Santa Rita
+- Santo Andre
+- Sao Bento
+- Sao Bento
+- Sao Domingos do Cariri
+- Sao Joao do Rio do Peixe
+- Sao Jose da Mata
+- Sao Jose de Piranhas
+- Sao Jose do Bonfim
+- Sao Miguel
+- Sao Paulo
+- Sao Sebastiao de Lagoa de Roca
+- Sao Vicente
+- Sape
+- Serra Redonda
+- Serra da Raiz
+- Solanea
+- Soledade
+- Sousa
+- Taperoa
+- Tavares
+- Uirauna
+:PE:
+- Abreu e Lima
+- Afogados da Ingazeira
+- Afranio
+- Agostinho
+- Agrestina
+- Agua Preta
+- Aguas Belas
+- Alianca
+- Altinho
+- Amaraji
+- Aracoiaba
+- Araripina
+- Arcoverde
+- Belem de Sao Francisco
+- Belo Jardim
+- Bezerros
+- Boa Viagem
+- Bom Conselho
+- Bom Jardim
+- Bonito
+- Buique
+- Cabo
+- Cabrobo
+- Cachoeirinha
+- Caetes
+- Calumbi
+- Camaragibe
+- Camocim de Sao Felix
+- Campo Grande
+- Canhotinho
+- Carpina
+- Caruaru
+- Catende
+- Cha Grande
+- Condado
+- Cunha
+- Cupira
+- Custodia
+- Dormentes
+- Escada
+- Exu
+- Flores
+- Frei Miguelinho
+- Gameleira
+- Garanhuns
+- Goiana
+- Gravatá
+- Guabiraba
+- Iati
+- Ibimirim
+- Igarassu
+- Inaja
+- Ipojuca
+- Ipubi
+- Itacuruba
+- Itambe
+- Jaboatao dos Guararapes
+- Jaqueira
+- Jardim (2)
+- Jatauba
+- Jatoba
+- Jatoba
+- Joaquim Nabuco
+- Jupi
+- Lagoa do Ouro
+- Lagoa dos Gatos
+- Lajedo
+- Lajedo
+- Limoeiro
+- Macaparana
+- Maraial
+- Moreilandia
+- Moreno
+- Nazare da Mata
+- Olinda
+- Palmares
+- Pao de Acucar
+- Paraiba
+- Pau de Colher
+- Paudalho
+- Paulista
+- Pesqueira
+- Petrolandia
+- Petrolina
+- Pombos
+- Porteiras
+- Primavera
+- Recife
+- Ribeirao
+- Rio Formoso
+- Salgueiro
+- Saloa
+- Samambaia
+- Sanharo
+- Santa Cruz da Baixa Verde
+- Santa Cruz do Capibaribe
+- Santa Maria da Boa Vista
+- Santo Agostinho
+- Sao Bento do Una
+- Sao Caetano
+- Sao Caitano
+- Sao Jose da Coroa Grande
+- Sao Jose do Egito
+- Sao Lourenco da Mata
+- Sao Paulo
+- Sao Vicente Ferrer
+- Serafina
+- Serra Talhada
+- Serrita
+- Sertania
+- Sirinhaem
+- Surubim
+- Tabira
+- Tamandare
+- Taquaritinga do Norte
+- Timbauba
+- Toritama
+- Tracunhaem
+- Triunfo
+- Umari
+- Varzea Alegre
+- Vertentes
+- Vicencia
+- Vitoria de Santo Antao
+- Xexeu
+:PI:
+- Agua Branca
+- Altos
+- Arame
+- Batalha
+- Bertolinia
+- Bocaina
+- Bom Jesus
+- Buriti dos Lopes
+- Campo Maior
+- Cocal
+- Cocal dos Alves
+- Demerval Lobao
+- Floriano
+- Fortaleza
+- Gilbues
+- Itaueira
+- Miguel Alves
+- Oeiras
+- Paes Landim
+- Parnaiba
+- Paulistana
+- Picos
+- Piracuruca
+- Piripiri
+- Santa Filomena
+- Sao Goncalo do Piaui
+- Sao Raimundo Nonato
+- Simoes
+- Simplicio Mendes
+- Teresina
+- Uniao
+- Urucui
+- Vila do Bec
+:PR:
+- Abatia
+- Adrianopolis
+- Agua Boa
+- Agudos do Sul
+- Alexandra
+- Almirante Tamandare
+- Alto Parana
+- Alto Piquiri
+- Alvorada do Sul
+- Amapora
+- Ampere
+- Andira
+- Angulo
+- Antonina
+- Apucarana
+- Arapongas
+- Arapoti
+- Araruna
+- Araucária
+- Assai
+- Assis Chateaubriand
+- Astorga
+- Bandeirantes
+- Barracao
+- Bela Vista do Paraiso
+- Bituruna
+- Bocaiuva do Sul
+- Bom Sucesso do Sul
+- Borrazopolis
+- Cafelandia
+- Cafezal
+- California
+- Cambara
+- Cambe
+- Cambira
+- Campina Grande do Sul
+- Campina da Lagoa
+- Campinas
+- Campo Largo
+- Campo Magro
+- Campo Mourao
+- Candido de Abreu
+- Candoi
+- Candoi
+- Capanema
+- Carambei
+- Carlopolis
+- Cascavel
+- Castro
+- Catanduvas
+- Centenario do Sul
+- Cerro Azul
+- Ceu Azul
+- Chopinzinho
+- Cianorte
+- Cidade Gaucha
+- Clevelandia
+- Coelho
+- Colombo
+- Colorado
+- Conselheiro Mairinck
+- Contenda
+- Corbelia
+- Cornelio Procopio
+- Coronel Vivida
+- Corumbatai do Sul
+- Criciuma
+- Cruz Machado
+- Cruzeiro do Oeste
+- Cruzeiro do Sul
+- Curitiba
+- Curiuva
+- Diamante
+- Dois Vizinhos
+- Doutor Camargo
+- Eldorado
+- Engenheiro Beltrao
+- Faxinal
+- Fazenda Rio Grande
+- Figueira
+- Florai
+- Floresta
+- Florestopolis
+- Fortaleza
+- Foz do Iguaçu
+- Francisco Beltrão
+- Goioere
+- Guaira
+- Guamiranga
+- Guaraniacu
+- Guarapuava
+- Guaratuba
+- Ibaiti
+- Ibema
+- Ibipora
+- Iguaracu
+- Imbau
+- Imbituva
+- Ipiranga
+- Ipora
+- Irati
+- Itaguaje
+- Itaipulandia
+- Itambaraca
+- Itapejara
+- Itaperucu
+- Ivai
+- Ivaipora
+- Ivate
+- Ivatuba
+- Jaboti
+- Jacarezinho
+- Jaguapita
+- Jaguariaiva
+- Jandaia do Sul
+- Janiopolis
+- Japura
+- Jataizinho
+- Jussara
+- Lapa
+- Laranjeiras do Sul
+- Lindoeste
+- Loanda
+- Londrina
+- Lupionopolis
+- Mambore
+- Mandaguacu
+- Mandaguari
+- Mandirituba
+- Mangueirinha
+- Marechal Candido Rondon
+- Marialva
+- Marilandia do Sul
+- Marilena
+- Mariluz
+- Maringá
+- Mariopolis
+- Marumbi
+- Matelandia
+- Matinhos
+- Medianeira
+- Missal
+- Moreira Sales
+- Morretes
+- Mundo Novo
+- Munhoz de Melo
+- Nova
+- Nova Esperanca
+- Nova Esperanca do Sudoeste
+- Nova Fatima
+- Nova Londrina
+- Ortigueira
+- Ourizona
+- Paicandu
+- Palmas
+- Palmeira
+- Palmital
+- Palotina
+- Paraiso do Norte
+- Paranacity
+- Paranaguá
+- Paranapoema
+- Paranavai
+- Pato Bragado
+- Pato Branco
+- Peabiru
+- Perobal
+- Pien
+- Pinhais
+- Pirai do Sul
+- Pirapo
+- Piraquara
+- Pitanga
+- Planalto
+- Ponta Grossa
+- Pontal do Parana
+- Porecatu
+- Pranchita
+- Primeiro de Maio
+- Prudentopolis
+- Quarto Centenario
+- Quatigua
+- Quatro Barras
+- Quedas do Iguacu
+- Querencia do Norte
+- Quinta do Sol
+- Quitandinha
+- Rancho Alegre
+- Realeza
+- Reboucas
+- Renascenca
+- Reserva
+- Ribeirao Bonito
+- Ribeirao Claro
+- Ribeirao do Pinhal
+- Rio Azul
+- Rio Bonito
+- Rio Branco do Ivai
+- Rio Branco do Sul
+- Rio Negro
+- Rolandia
+- Roncador
+- Rondon
+- Sabaudia
+- Sabia
+- Salto
+- Salto do Itarare
+- Salto do Lontra
+- Santa Fe
+- Santa Helena
+- Santa Helena
+- Santa Isabel
+- Santa Maria
+- Santa Mariana
+- Santa Teresa
+- Santo Antonio da Platina
+- Santo Antonio do Sudoeste
+- Sao Carlos do Ivai
+- Sao Joao
+- Sao Joao da Ocalina
+- Sao Joao do Caiua
+- Sao Joao do Triunfo
+- Sao Jorge d'Oeste
+- Sao Jose das Palmeiras
+- Sao Mateus do Sul
+- Sao Miguel do Iguacu
+- Sao Pedro
+- Sao Pedro do Iguacu
+- Sao Pedro do Ivai
+- Sao Sebastiao da Amoreira
+- Sao Tome
+- Sarandi
+- Senges
+- Sertaneja
+- Sertanopolis
+- Siqueira Campos
+- Sitio Santa Barbara
+- São José dos Pinhais
+- Tamboara
+- Teixeira Soares
+- Telemaco Borba
+- Terra Boa
+- Terra Rica
+- Terra Roxa
+- Tibagi
+- Toledo
+- Turvo
+- Ubirata
+- Umuarama
+- Uniao da Vitoria
+- Urai
+- Vargem Bonita
+- Vera Cruz
+- Vera Cruz do Oeste
+- Vere
+- Virmond
+- Wenceslau Braz
+:RJ:
+- Aguas Lindas
+- Angra dos Reis
+- Aperibe
+- Araruama
+- Areal
+- Armacao de Buzios
+- Arraial do Cabo
+- Arrozal
+- Avelar
+- Bacaxa
+- Bananal
+- Banquete
+- Barao de Juparana
+- Barra Alegre
+- Barra Mansa
+- Barra de Sao Joao
+- Barra do Piraí
+- Belford Roxo
+- Boa Sorte
+- Bom Jardim
+- Bom Jesus do Itabapoana
+- Cabo Frio
+- Cachoeiras de Macacu
+- Cachoeiros
+- California
+- Cambuci
+- Campo Grande
+- Campo Limpo
+- Campos dos Goytacazes
+- Canoas
+- Cantagalo
+- Carapebus
+- Cardoso Moreira
+- Carmo
+- Casimiro de Abreu
+- Chapadao
+- Comendador Levy Gasparian
+- Conceicao de Macabu
+- Conservatoria
+- Cordeiro
+- Dores de Macabu
+- Duas Barras
+- Duas Barras
+- Duque de Caxias
+- Engenheiro Paulo de Frontin
+- Flamengo
+- Goitacazes
+- Guapimirim
+- Iguaba Grande
+- Iguacu
+- Ipiabas
+- Itaborai
+- Itaguai
+- Italva
+- Itaocara
+- Itaperuna
+- Itatiaia
+- Japeri
+- Japuiba
+- Jesuitas
+- Lagoinha
+- Lapa
+- Laranjais
+- Lidice
+- Lumiar
+- Macaé
+- Macuco
+- Mage
+- Mangaratiba
+- Marica
+- Mendes
+- Miguel Pereira
+- Miracema
+- Morro do Coco
+- Natividade
+- Nilopolis
+- Niterói
+- Nova Friburgo
+- Nova Iguaçu
+- Paracambi
+- Paraiba do Sul
+- Paraiso
+- Parapeuna
+- Paraty
+- Petrópolis
+- Pinheiral
+- Pirai
+- Porciuncula
+- Porto Real
+- Quatis
+- Queimados
+- Quissama
+- Resende
+- Rio Bonito
+- Rio Claro
+- Rio das Flores
+- Rio das Ostras
+- Rio de Janeiro
+- Riograndina
+- Santa Maria Madalena
+- Santo Antonio de Padua
+- Sao Fidelis
+- Sao Francisco
+- Sao Francisco de Itabapoana
+- Sao Goncalo
+- Sao Joao da Barra
+- Sao Joao de Meriti
+- Sao Jose de Uba
+- Sao Jose do Ribeirao
+- Sao Jose do Turvo
+- Sao Luis
+- Sao Pedro da Aldeia
+- Sao Sebastiao
+- Sao Vicente de Paula
+- Sapucaia
+- Saquarema
+- Seropedica
+- Subaio
+- Sumidouro
+- Taboas
+- Tamoios
+- Tangua
+- Teresopolis
+- Tres Rios
+- Valenca
+- Vassouras
+- Volta Redonda
+:RN:
+- Acari
+- Acu
+- Alexandria
+- Apodi
+- Areia Branca
+- Ares
+- Barauna
+- Brejinho
+- Caico
+- Caraubas
+- Ceara Mirim
+- Cerro Cora
+- Coronel Ezequiel
+- Cruzeta
+- Currais Novos
+- Dix-sept Rosado
+- Doutor Severiano
+- Equador
+- Goianinha
+- Grossos
+- Ielmo Marinho
+- Ipanguacu
+- Jacana
+- Jardim de Piranhas
+- Jardim do Serido
+- Joao Camara
+- Jucurutu
+- Lagoa Nova
+- Lajes
+- Macaiba
+- Macau
+- Martins
+- Maxaranguape
+- Monte Alegre
+- Mossoro
+- Natal
+- Nova Cruz
+- Ouro Branco
+- Parelhas
+- Parnamirim
+- Passa e Fica
+- Pau dos Ferros
+- Rafael Fernandes
+- Santa Cruz
+- Santo Antonio
+- Santo Cristo
+- Sao Goncalo do Amarante
+- Sao Jose de Mipibu
+- Sao Miguel
+- Sao Pedro
+- Tangara
+- Tenente Ananias
+- Tibau
+- Tibau do Sul
+- Touros
+- Ubirata
+- Vera Cruz
+:RO:
+- Alta Floresta D'Oeste
+- Alvorada d'Oeste
+- Ariquemes
+- Cacoal
+- Chupinguaia
+- Frutuoso
+- Guajará-Mirim
+- Jaru
+- Ministro Andreazza
+- Mirante da Serra
+- Nova Brasilandia dOeste
+- Ouro Preto do Oeste
+- Pimenta Bueno
+- Porto Velho
+- Posto Fiscal Rolim de Moura
+- Presidente Medici
+- Teixeiropolis
+- Theobroma
+- Urupa
+- Vilhena
+:RR:
+- Boa Vista
+:RS:
+- Acegua
+- Agudo
+- Ajuricaba
+- Alegrete
+- Alvorada
+- Anta Gorda
+- Antonio Prado
+- Arambare
+- Ararica
+- Arroio Grande
+- Arroio do Meio
+- Arroio do Tigre
+- Arroio dos Ratos
+- Arvorezinha
+- Bagé
+- Barra do Ribeiro
+- Bento Gonçalves
+- Boa Vista do Burica
+- Bom Jesus
+- Bom Principio
+- Bom Principio
+- Brochier
+- Butia
+- Cacapava do Sul
+- Cacequi
+- Cachoeira do Sul
+- Cachoeirinha
+- Caibate
+- Camaqua
+- Camargo
+- Cambara
+- Campina
+- Campo Bom
+- Campos Borges
+- Candelaria
+- Canela
+- Cangucu
+- Canoas
+- Canudos
+- Capao da Canoa
+- Capao do Leao
+- Caraa
+- Carazinho
+- Carlos Barbosa
+- Casca
+- Caxias do Sul
+- Cerro Grande
+- Cerro Largo
+- Chapada
+- Charqueadas
+- Cidreira
+- Condor
+- Constantina
+- Coronel Pilar
+- Cotipora
+- Crissiumal
+- Cruz Alta
+- Cruzeiro do Sul
+- Dois Irmaos
+- Dois Lajeados
+- Dom Feliciano
+- Dom Pedrito
+- Encantado
+- Entre Ijuis
+- Erechim
+- Espumoso
+- Estancia Velha
+- Esteio
+- Estrela
+- Estrela
+- Farroupilha
+- Faxinal do Soturno
+- Feliz
+- Flores da Cunha
+- Formosa
+- Fortaleza dos Valos
+- Frederico Westphalen
+- Garibaldi
+- Gaurama
+- Getulio Vargas
+- Girua
+- Glorinha
+- Gramado
+- Gravataí
+- Guapore
+- Guaíba
+- Harmonia
+- Horizontina
+- Hulha Negra
+- Humaita
+- Ibiruba
+- Igrejinha
+- Ijui
+- Ilopolis
+- Independencia
+- Irai
+- Itapua
+- Itaqui
+- Ivoti
+- Jacuizinho
+- Jaguarao
+- Jaguari
+- Jaquirana
+- Julio de Castilhos
+- Lagoa Vermelha
+- Lajeado
+- Lavras do Sul
+- Machadinho
+- Mampituba
+- Marau
+- Marcelino Ramos
+- Mariana Pimentel
+- Minas
+- Montenegro
+- Morro Reuter
+- Mostardas
+- Nonoai
+- Nova Araca
+- Nova Bassano
+- Nova Brescia
+- Nova Palma
+- Nova Petropolis
+- Nova Prata
+- Novo Hamburgo
+- Oeste
+- Osorio
+- Palmares do Sul
+- Panambi
+- Pantano Grande
+- Parai
+- Paraiso do Sul
+- Parobe
+- Passo Fundo
+- Passo Raso
+- Passo do Sobrado
+- Pejucara
+- Pelotas
+- Picada
+- Planalto
+- Poco das Antas
+- Portao
+- Porto Alegre
+- Porto Lucena
+- Porto Xavier
+- Povo Novo
+- Progresso
+- Quarai
+- Restinga Seca
+- Rio Grande
+- Rio Pardo
+- Roca Sales
+- Rodeio Bonito
+- Rolante
+- Ronda Alta
+- Roque Gonzales
+- Rosario do Sul
+- Sananduva
+- Santa Cruz do Sul
+- Santa Maria
+- Santa Maria do Herval
+- Santa Rosa
+- Santa Tereza
+- Santa Vitoria do Palmar
+- Santana do Livramento
+- Santiago
+- Santo Antonio da Patrulha
+- Santo Augusto
+- Santo Cristo
+- Santo Ângelo
+- Sao Francisco de Assis
+- Sao Francisco de Paula
+- Sao Gabriel
+- Sao Jeronimo
+- Sao Joao da Urtiga
+- Sao Jose
+- Sao Jose do Norte
+- Sao Jose do Ouro
+- Sao Lourenco do Sul
+- Sao Luiz Gonzaga
+- Sao Marcos
+- Sao Martinho
+- Sao Paulo
+- Sao Salvador
+- Sao Sebastiao do Cai
+- Sao Sepe
+- Sao Vendelino
+- Sapiranga
+- Sapucaia
+- Sapucaia do Sul
+- Sarandi
+- Seberi
+- Silveira Martins
+- Sinimbu
+- Sobradinho
+- Soledade
+- São Borja
+- São Leopoldo
+- Tapejara
+- Taquara
+- Taquari
+- Tenente Portela
+- Teutonia
+- Tio Hugo
+- Torres
+- Tramandai
+- Tres Cachoeiras
+- Tres Coroas
+- Tres Passos
+- Tres de Maio
+- Triunfo
+- Tucunduva
+- Tupancireta
+- Tupandi
+- Turucu
+- Uruguaiana
+- Vacaria
+- Vanini
+- Venancio Aires
+- Veranopolis
+- Viadutos
+- Viamão
+- Vila Maria
+- Vila Nova
+:SC:
+- Abelardo Luz
+- Agrolandia
+- Agronomica
+- Agua Doce
+- Aguas Claras
+- Aguas Mornas
+- Aguas de Chapeco
+- Alfredo Wagner
+- Anchieta
+- Angelina
+- Anitapolis
+- Antonio Carlos
+- Apiuna
+- Araquari
+- Ararangua
+- Armazem
+- Arroio do Silva
+- Ascurra
+- Atalanta
+- Balneario Arroio do Silva
+- Balneário Camboriú
+- Barra Velha
+- Barra do Sul
+- Benedito Novo
+- Biguacu
+- Blumenau
+- Bom Jardim da Serra
+- Bombinhas
+- Bonsucesso
+- Botuvera
+- Braco do Norte
+- Brunopolis
+- Brusque
+- Caibi
+- Campo Belo do Sul
+- Campo Ere
+- Campos Novos
+- Canelinha
+- Canoinhas
+- Capinzal
+- Catanduvas
+- Caçador
+- Cocal
+- Concordia
+- Coronel Freitas
+- Coronel Martins
+- Correia Pinto
+- Corupa
+- Criciúma
+- Cunha Pora
+- Curitibanos
+- Erval d'Oeste
+- Florianópolis
+- Forquilhinha
+- Fraiburgo
+- Garopaba
+- Garuva
+- Gaspar
+- Governador Celso Ramos
+- Gravatal
+- Guabiruba
+- Guaporanga
+- Guaramirim
+- Guatambu
+- Ibirama
+- Icara
+- Ilhota
+- Imarui
+- Imbituba
+- Indaial
+- Ipira
+- Ipora
+- Iraceminha
+- Irani
+- Itajaí
+- Itapema
+- Itapiranga
+- Ituporanga
+- Jaguaruna
+- Jaraguá do Sul
+- Joao Pessoa
+- Joaçaba
+- Joinville
+- Lacerdopolis
+- Lages
+- Laguna
+- Laurentino
+- Lauro Muller
+- Lebon Regis
+- Lontras
+- Luiz Alves
+- Luzerna
+- Mafra
+- Maracaja
+- Maravilha
+- Massaranduba
+- Meleiro
+- Mondai
+- Monte Carlo
+- Morro da Fumaca
+- Navegantes
+- Nova Trento
+- Nova Veneza
+- Orleans
+- Otacilio Costa
+- Palhoca
+- Palmitos
+- Paulo Lopes
+- Pedras Grandes
+- Penha
+- Pescaria Brava
+- Pinhalzinho
+- Pomerode
+- Ponte Alta do Norte
+- Porto Belo
+- Porto Uniao
+- Pouso Redondo
+- Presidente Getulio
+- Quilombo
+- Rio Fortuna
+- Rio Negrinho
+- Rio do Sul
+- Rodeio
+- Salete
+- Salto
+- Sangao
+- Santa Cecilia
+- Santa Rosa
+- Santo Amaro da Imperatriz
+- Sao Carlos
+- Sao Francisco do Sul
+- Sao Joao Batista
+- Sao Joaquim
+- Sao Jose
+- Sao Jose do Cedro
+- Sao Jose do Cerrito
+- Sao Lourenco do Oeste
+- Sao Ludgero
+- Sao Martinho
+- Sao Paulo
+- Sao Pedro de Alcantara
+- Saudades
+- Schroeder
+- Seara
+- Sideropolis
+- Sombrio
+- São Bento do Sul
+- São Miguel do Oeste
+- Taio
+- Tangara
+- Tijucas
+- Timbe
+- Timbo
+- Timbo Grande
+- Tres Barras
+- Treze de Maio
+- Tubarao
+- Turvo
+- Urubici
+- Urupema
+- Urussanga
+- Videira
+- Xanxere
+- Xaxim
+:SE:
+- Aquidaba
+- Aracaju
+- Areia Branca
+- Barra dos Coqueiros
+- Boquim
+- Campo do Brito
+- Capela
+- Carmopolis
+- Cedro de Sao Joao
+- Estancia
+- Feira Nova
+- Frei Paulo
+- Ilha das Flores
+- Itabaiana
+- Itabaianinha
+- Itaporanga d'Ajuda
+- Japaratuba
+- Lagarto
+- Malhador
+- Maruim
+- Monte Alegre de Sergipe
+- Muribeca
+- Neopolis
+- Nossa Senhora da Gloria
+- Nossa Senhora das Dores
+- Nossa Senhora do Socorro
+- Poco Redondo
+- Poco Verde
+- Porto da Folha
+- Propria
+- Riachuelo
+- Ribeiropolis
+- Salgado
+- Sao Cristovao
+- Sao Domingos
+- Sao Domingos
+- Simao Dias
+- Sobrado
+- Tobias Barreto
+- Umbauba
+:SP:
+- Adamantina
+- Aden
+- Adolfo
+- Agua Vermelha
+- Aguai
+- Aguas da Prata
+- Aguas de Lindoia
+- Agudos
+- Alambari
+- Alphaville
+- Altinopolis
+- Alto Da Serra
+- Aluminio
+- Alvares Machado
+- Alvinlandia
+- Americana
+- Americo Brasiliense
+- Amparo
+- Andradina
+- Angatuba
+- Anhembi
+- Aparecida
+- Apiai
+- Aracariguama
+- Aracoiaba da Serra
+- Aramina
+- Arandu
+- Araraquara
+- Araras
+- Araçatuba
+- Arealva
+- Areiopolis
+- Ariranha
+- Artur Nogueira
+- Arujá
+- Assis
+- Atibaia
+- Avai
+- Avanhandava
+- Avare
+- Bady Bassitt
+- Balbinos
+- Balsamo
+- Balsamo
+- Barbosa
+- Bariri
+- Barra Bonita
+- Barretos
+- Barrinha
+- Barueri
+- Bastos
+- Batatais
+- Bauru
+- Bebedouro
+- Bernardino de Campos
+- Bertioga
+- Bilac
+- Birigui
+- Biritiba Mirim
+- Boa Esperanca do Sul
+- Bofete
+- Boituva
+- Bom Jesus dos Perdoes
+- Borborema
+- Borebi
+- Botucatu
+- Braganca Paulista
+- Brasil
+- Brodosqui
+- Brotas
+- Buri
+- Buritama
+- Buritizal
+- Cabreuva
+- Cacapava
+- Cachoeira Paulista
+- Caconde
+- Cafelandia
+- Caiabu
+- Caieiras
+- Cajamar
+- Cajati
+- Cajobi
+- Cajuru
+- California
+- Campinas
+- Campo Limpo Paulista
+- Campos do Jordao
+- Cananeia
+- Candido Mota
+- Canitar
+- Capao Bonito
+- Capivari
+- Caraguatatuba
+- Carapicuiba
+- Cardoso
+- Casa Branca
+- Castilho
+- Catanduva
+- Cerejeiras
+- Cerqueira Cesar
+- Cerquilho
+- Cesario Lange
+- Charqueada
+- Chavantes
+- Clementina
+- Colina
+- Conchal
+- Conchas
+- Cordeiropolis
+- Cosmopolis
+- Cotia
+- Cravinhos
+- Cristais Paulista
+- Cruzeiro
+- Cubatao
+- Cunha
+- Descalvado
+- Diadema
+- Divinolandia
+- Dobrada
+- Dois Corregos
+- Dourado
+- Dracena
+- Duartina
+- Dumont
+- Elias Fausto
+- Embu
+- Embu Guacu
+- Engenheiro Schmidt
+- Espirito Santo do Pinhal
+- Fartura
+- Fernandopolis
+- Ferraz
+- Ferraz de Vasconcelos
+- Flora Rica
+- Franca
+- Francisco Morato
+- Franco da Rocha
+- Gabriel Monteiro
+- Garca
+- Gaviao Peixoto
+- General Salgado
+- Guaira
+- Guapiacu
+- Guara
+- Guaraci
+- Guaranta
+- Guararapes
+- Guararema
+- Guaratingueta
+- Guarei
+- Guariba
+- Guaruja
+- Guarulhos
+- Guatapara
+- Herculandia
+- Holambra
+- Hortolândia
+- Iacanga
+- Ibate
+- Ibira
+- Ibirarema
+- Ibitinga
+- Ibiuna
+- Icem
+- Iepe
+- Igaracu do Tiete
+- Igarapava
+- Igarata
+- Iguape
+- Ilha Solteira
+- Ilhabela
+- Indaiatuba
+- Indiana
+- Ipaucu
+- Ipero
+- Ipeuna
+- Ipigua
+- Ipua
+- Iracemapolis
+- Irapua
+- Irapuru
+- Itabera
+- Itai
+- Itajobi
+- Itanhaem
+- Itapecerica da Serra
+- Itapetininga
+- Itapeva
+- Itapevi
+- Itapira
+- Itapolis
+- Itaporanga
+- Itapui
+- Itaquaquecetuba
+- Itarare
+- Itatiba
+- Itatinga
+- Itirapina
+- Itu
+- Itupeva
+- Ituverava
+- Jaboticabal
+- Jacare
+- Jacareí
+- Jaci
+- Jaguariuna
+- Jales
+- Jambeiro
+- Jandira
+- Jardim Centenario
+- Jardinopolis
+- Jarinu
+- Jaú
+- Jeriquara
+- Joanopolis
+- Joao Ramalho
+- Jose Bonifacio
+- Julio Mesquita
+- Jundiaí
+- Junqueiropolis
+- Juquia
+- Juquitiba
+- Juruce
+- Laranjal Paulista
+- Lavinia
+- Lavrinhas
+- Leme
+- Lencois Paulista
+- Limeira
+- Lindoia
+- Lins
+- Lorena
+- Louveira
+- Luis Antonio
+- Luis Antonio
+- Luiziania
+- Lutecia
+- Macatuba
+- Macaubal
+- Macedonia
+- Magda
+- Mairinque
+- Mairiporã
+- Maracai
+- Marapoama
+- Mariapolis
+- Martinopolis
+- Marília
+- Matao
+- Maua
+- Miguelopolis
+- Mineiros do Tiete
+- Miracatu
+- Mirandopolis
+- Mirante do Paranapanema
+- Mirassol
+- Mococa
+- Mogi Guacu
+- Mogi Mirim
+- Mogi das Cruzes
+- Mongagua
+- Monte Alegre do Sul
+- Monte Alto
+- Monte Aprazivel
+- Monte Azul Paulista
+- Monte Belo
+- Monte Mor
+- Morro Agudo
+- Morungaba
+- Motuca
+- Nantes
+- Narandiba
+- Natividade da Serra
+- Nazare Paulista
+- Nova Canaa
+- Nova Europa
+- Nova Granada
+- Nova Odessa
+- Novo Horizonte
+- Nuporanga
+- Ocaucu
+- Olimpia
+- Orindiuva
+- Orlandia
+- Osasco
+- Osvaldo Cruz
+- Ourinhos
+- Ouro Verde
+- Ouroeste
+- Pacaembu
+- Palestina
+- Palmares Paulista
+- Palmeira d'Oeste
+- Palmital
+- Panorama
+- Paraguacu Paulista
+- Paraibuna
+- Paranapanema
+- Pardinho
+- Patrocinio Paulista
+- Pauliceia
+- Paulinia
+- Paulistania
+- Paulo de Faria
+- Pederneiras
+- Pedregulho
+- Pedreira
+- Pedro de Toledo
+- Penapolis
+- Pereira Barreto
+- Pereiras
+- Peruibe
+- Perus
+- Piacatu
+- Piedade
+- Pilar do Sul
+- Pindamonhangaba
+- Pindorama
+- Pinhalzinho
+- Piquerobi
+- Piquete
+- Piracaia
+- Piracicaba
+- Piraju
+- Pirajui
+- Pirangi
+- Pirapora do Bom Jesus
+- Pirapozinho
+- Pirassununga
+- Piratininga
+- Pitangueiras
+- Platina
+- Poa
+- Pompeia
+- Pongai
+- Pontal
+- Pontes Gestal
+- Porto Feliz
+- Porto Ferreira
+- Potim
+- Potirendaba
+- Pradopolis
+- Praia Grande
+- Pratania
+- Presidente Alves
+- Presidente Bernardes
+- Presidente Epitacio
+- Presidente Prudente
+- Presidente Venceslau
+- Promissao
+- Quadra
+- Quata
+- Queluz
+- Rafard
+- Rancharia
+- Redencao da Serra
+- Regente Feijo
+- Registro
+- Restinga
+- Ribeira
+- Ribeirao Bonito
+- Ribeirao Branco
+- Ribeirao Pires
+- Ribeirao do Sul
+- Ribeirão Preto
+- Rincao
+- Rinopolis
+- Rio Claro
+- Rio Grande da Serra
+- Rio das Pedras
+- Rodrigues
+- Rubineia
+- Sales
+- Sales Oliveira
+- Salesopolis
+- Salmourao
+- Saltinho
+- Salto
+- Salto Grande
+- Salto de Pirapora
+- Samambaia
+- Sandovalina
+- Santa Adelia
+- Santa Barbara d'Oeste
+- Santa Branca
+- Santa Cruz da Esperanca
+- Santa Cruz da Estrela
+- Santa Cruz das Palmeiras
+- Santa Cruz do Rio Pardo
+- Santa Ernestina
+- Santa Fe do Sul
+- Santa Gertrudes
+- Santa Isabel
+- Santa Lucia
+- Santa Maria da Serra
+- Santa Rita do Passa Quatro
+- Santa Rosa de Viterbo
+- Santana de Parnaiba
+- Santo Amaro
+- Santo Anastacio
+- Santo André
+- Santo Antonio de Posse
+- Santo Antonio do Pinhal
+- Santos
+- Sao Francisco
+- Sao Francisco Xavier
+- Sao Joao da Boa Vista
+- Sao Joaquim da Barra
+- Sao Jose
+- Sao Jose das Palmeiras
+- Sao Jose do Rio Pardo
+- Sao Jose do Rio Preto
+- Sao Lourenco da Serra
+- Sao Manuel
+- Sao Miguel Arcanjo
+- Sao Pedro
+- Sao Pedro do Turvo
+- Sao Roque
+- Sao Sebastiao
+- Sao Simao
+- Sao Vicente
+- Sarutaia
+- Serra
+- Serra Negra
+- Serrana
+- Sertaozinho
+- Sete Barras
+- Severinia
+- Socorro
+- Sorocaba
+- Stio Ouro Fino
+- Sumaré
+- Suzano
+- São Bernardo do Campo
+- São Caetano do Sul
+- São Carlos
+- São José dos Campos
+- São Paulo
+- Tabatinga
+- Taboao da Serra
+- Taciba
+- Tambau
+- Tanabi
+- Tapirai
+- Taquaritinga
+- Taquarituba
+- Taquarivai
+- Tarabai
+- Taruma
+- Tatuape
+- Tatuí
+- Taubate
+- Teodoro Sampaio
+- Terra Roxa
+- Tiete
+- Timburi
+- Tremembe
+- Tres Fronteiras
+- Tupa
+- Tupi Paulista
+- Ubarana
+- Ubatuba
+- Ubirajara
+- Urania
+- Uru
+- Urupes
+- Valentim Gentil
+- Valinhos
+- Valparaiso
+- Vargem
+- Vargem Grande Paulista
+- Vargem Grande do Sul
+- Varzea Paulista
+- Vinhedo
+- Viradouro
+- Vista Alegre do Alto
+- Votorantim
+- Votuporanga
+:TO:
+- Angico
+- Araguana
+- Araguatins
+- Araguaína
+- Arraias
+- Colinas do Tocantins
+- Cristalandia
+- Dois Irmaos do Tocantins
+- Esperantina
+- Fortaleza do Tabocao
+- Guarai
+- Gurupi
+- Marilandia
+- Miracema do Tocantins
+- Miranorte
+- Nova
+- Nova Rosalandia
+- Olho d'Agua
+- Palmas
+- Palmeiropolis
+- Paraiso do Tocantins
+- Parana
+- Pedra Branca
+- Pedro Afonso
+- Peixe
+- Ponte Alta do Bom Jesus
+- Porto Nacional
+- Salvador
+- Santa Fe do Araguaia
+- Taguatinga
+- Taquaralto
+- Tocantinopolis
+- Wanderlandia
+- Xambioa

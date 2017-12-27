@@ -1,0 +1,55 @@
+---
+:AK:
+- Snug Corner
+:BP:
+- Little Farmers Cay
+:BY:
+- Chub Cay
+:CE:
+- Savannah Sound
+:CK:
+- Colonel Hill
+:CO:
+- Marsh Harbour
+:EG:
+- Sweeting Cay
+:EX:
+- George Town
+:FP:
+- Freeport
+:HI:
+- Dunmore Town
+:HT:
+- Green Turtle Cay
+:IN:
+- Matthew Town
+:LI:
+- Clarence Town
+:MC:
+- Mangrove Cay
+:MG:
+- Pirates Well
+:NE:
+- Current
+:NP:
+- Nassau
+:NS:
+- Andros Town
+- San Andros
+:RC:
+- Port Nelson
+:RI:
+- Duncan Town
+:SA:
+- Driggs Hill
+:SE:
+- Waterford
+:SO:
+- Sandy Point
+:SS:
+- Cockburn Town
+- Hard Bargain
+:SW:
+- Spanish Wells
+:WG:
+- West End

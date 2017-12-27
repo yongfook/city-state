@@ -1,0 +1,14 @@
+---
+:ARA: Auvergne-Rhone-Alpes
+:BFC: Bourgogne-Franche-Comte
+:BRE: Brittany
+:COR: Corsica
+:CVL: Centre-Val de Loire
+:GES: Grand-Est
+:HDF: Hauts-de-France
+:IDF: Île-de-France
+:NAQ: Nouvelle-Aquitaine
+:NOR: Normandy
+:OCC: Occitanie
+:PAC: Provence-Alpes-Côte d'Azur
+:PDL: Pays de la Loire
